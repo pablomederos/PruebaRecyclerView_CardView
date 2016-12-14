@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CardView + RecyclerView</string>
+    <string name="titleCardText">Fondo de Cuadros</string>
+    <string name="url_edittext">url</string>
+    <string name="name_edittext">Nombre</string>
+
+    <string name="title_activity_fullscreen">Foto</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
